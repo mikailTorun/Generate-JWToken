@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate JWToken", "Generate JWToken\Generate JWToken.csproj", "{E4F70B79-7E09-44B1-97E6-1C1633861EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F70B79-7E09-44B1-97E6-1C1633861EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F70B79-7E09-44B1-97E6-1C1633861EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F70B79-7E09-44B1-97E6-1C1633861EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F70B79-7E09-44B1-97E6-1C1633861EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60366AE7-15DC-4EE3-9871-6CFB342AEEB5}
+	EndGlobalSection
+EndGlobal
